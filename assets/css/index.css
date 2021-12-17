@@ -27,7 +27,7 @@ iframe {
   text-align: center;
   font-size: 12px;
   user-select: none;
-  display: flex;
+  -display: flex;
 }
 
 .layui-side-scroll .userinfo {
